@@ -3,3 +3,5 @@ first line of file2
 second line of file2 added in Visual Studio
 
 third line of file2 added in Visual Studio
+
+forth line of file2
